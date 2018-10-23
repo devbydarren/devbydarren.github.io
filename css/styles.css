@@ -1,0 +1,56 @@
+body {
+
+    background: black !important;
+    color: white;
+}
+
+p {
+    font-size: 1.5em;
+    color: white;
+    padding-top: 15px;
+    padding: 0px 15px;
+}
+
+h1, h2, h3{
+    padding: 0px 15px;
+    color: white !important;
+}
+
+li {
+  list-style: none;
+}
+
+
+.space {
+
+    margin-top: 50px;
+
+}
+
+.space2 {
+
+  margin-top: 20px;
+
+}
+
+code {
+  color: white ;
+}
+
+.nav-item {
+  margin: 0 1.5vw;
+  text-decoration: none;
+}
+
+a {
+  color: white !important;
+}
+
+a:focus {
+  color: red !important;
+    text-decoration: none !important;
+}
+a:hover {
+    color: red !important;
+    text-decoration: none !important;
+}
